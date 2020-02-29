@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutoExcel", "AutoExcel\AutoExcel.vbproj", "{C6D1DFC5-032C-4B0C-A285-B6ABBA9616A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D1DFC5-032C-4B0C-A285-B6ABBA9616A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D1DFC5-032C-4B0C-A285-B6ABBA9616A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D1DFC5-032C-4B0C-A285-B6ABBA9616A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D1DFC5-032C-4B0C-A285-B6ABBA9616A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59026F3D-F9DA-4D9F-A0E8-BAAD069EC971}
+	EndGlobalSection
+EndGlobal
